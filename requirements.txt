@@ -1,11 +1,4 @@
+langgraph
 langchain
-langchainhub
-langchain_community
+langsmith
 
-
-
-bs4
-tiktoken
-openai
-boto3==1.34.37
-chromadb
