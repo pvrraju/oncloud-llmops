@@ -2,3 +2,7 @@ langgraph
 langchain
 langsmith
 
+python-dotenv
+
+langchain-openai 
+pygraphviz==1.11 
