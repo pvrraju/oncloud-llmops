@@ -6,3 +6,5 @@ python-dotenv
 
 langchain-openai 
 pygraphviz==1.11 
+
+langchain_tavily
