@@ -28,6 +28,10 @@ async def main():
         }
     )
 
+
+
+
+
     import os 
     os.environ['OPENAI_API_KEY'] = os.getenv('OPENAI_API_KEY')
 
