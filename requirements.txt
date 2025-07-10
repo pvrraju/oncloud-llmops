@@ -8,3 +8,14 @@ langchain-openai
 pygraphviz==1.11 
 
 langchain_tavily
+
+
+
+langchain-mcp-adapters
+
+mcp
+
+
+langchain_tavily
+
+langgraph-cli[inmem]
